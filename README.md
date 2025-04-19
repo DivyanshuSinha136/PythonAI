@@ -90,3 +90,23 @@ while True:
 ```
 This will create you advanced python AI.
 
+
+# Why do we use it?
+
+> It is use for learning the structure and working of a basic AI 
+
+### Programming language used.
+
+> `Python` is used to create this package.
+
+### Requirement.
+> Basic knowledge of `Python`
+>
+### Is it free?
+Yes, it is open source module and free for all, but the `AdvancedBrain` module is a paid version, to create a api token you have to subscribe. 
+
+### How to get api?
+To get API you have to visit it's official web page, i.e. 
+```link
+https://pyai.api.com/get_api
+```
