@@ -1,4 +1,12 @@
-# PythonAI
-PythonAI is the tool to learn Deep Learning and Machine Learning
-# How to use?
-pip install git+https://github.com/DivyanshuSinha/PythonAI.git
+# Sample README with Code
+
+## Description
+
+This is a sample README file demonstrating how to include code.
+
+## Code Example
+
+Here's a simple Python code example:
+
+```python
+print("Hello, World!")
