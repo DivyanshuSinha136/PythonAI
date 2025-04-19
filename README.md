@@ -40,7 +40,7 @@ while True:
 ```
 Use this to train you model (Brain of your Chatbot). 
 
-# Make your bot smarter. 
+## Make your bot smarter. 
 
 To make your model or bot smarter you have to give him lot of datas, otherwise you can also use HugeBrain from pyai module. where HugeBrain is the class.
 
@@ -63,7 +63,7 @@ while True:
 
 this can help you to create a intermediate bot.
 
-# Also use built-in Python Artificial Intelligence. 
+## Also use built-in Python Artificial Intelligence. 
 
 To create advanced bot you have to get api form the Python Artificial Intelligence official website. 
 
