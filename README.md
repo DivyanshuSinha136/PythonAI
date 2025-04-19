@@ -1,12 +1,40 @@
-# Sample README with Code
+# Python Artificial Intelligence
 
-## Description
+## About
 
-This is a sample README file demonstrating how to include code.
+It is use for understing ML, DL, and NLP also you can make small AI chatbot from it
 
-## Code Example
+## How to install?
 
-Here's a simple Python code example:
+Run the command in your terminal.
 
 ```python
-print("Hello, World!")
+pip install git+https://github.com/username/repository.git
+```
+## How to use?
+
+After installing the package import Brain class from pyai module.
+
+```python
+from pyai import Brain
+```
+
+## Train Module
+
+To train model write.
+
+```python
+model = Brain()
+maodel.data('Question', 'It's Answer')
+# You can add more data.
+
+# Train Model.
+
+result = model.train()
+
+# Take Questions from the user
+
+while True:
+    question = input('Question : ')
+    print(f'Answer : {result}')
+```
