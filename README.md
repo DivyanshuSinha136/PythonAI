@@ -45,7 +45,7 @@ Use this to train you model (Brain of your Chatbot).
 To make your model or bot smarter you have to give him lot of datas, otherwise you can also use HugeBrain from pyai module. where HugeBrain is the class.
 
 ```python
-from PYAI import HugeBrain
+from pyai import HugeBrain
 
 model = HugeBrain()
 
@@ -62,3 +62,31 @@ while True:
 ```
 
 this can help you to create a intermediate bot.
+
+# Also use built-in Python Artificial Intelligence. 
+
+To create advanced bot you have to get api form the Python Artificial Intelligence official website. 
+
+```link
+https://pyai.api.com/get_api
+```
+
+First you have to create your api.
+After that:
+
+```python
+from pyai import AdvanceBrain
+
+api = "your_api_key" # Get it from the link.
+
+model = AdvanceBrain(api)
+
+# main.py
+
+while True:
+    question = input("Questions: ")
+    print(f"Answer : {model.answer(question)}")
+
+```
+This will create you advanced python AI.
+
